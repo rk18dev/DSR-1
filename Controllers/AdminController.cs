@@ -8,7 +8,7 @@ namespace DSR.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
-    [Authorize]
+  
     public class AdminController : ControllerBase
     {
         IAdminService _adminService;

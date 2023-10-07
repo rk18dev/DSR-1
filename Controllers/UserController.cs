@@ -1,5 +1,5 @@
-﻿using DSR_DataAccess.Services;
-using DSR_DataAccess.UserModels;
+﻿using DSR_DataAccess.Models;
+using DSR_DataAccess.Services;
 using DSR_DataAccess.Utils.CommonModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
